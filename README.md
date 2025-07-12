@@ -1,2 +1,2 @@
 # javascript-waris
-A code repo for js seris
+A code repo for js series
